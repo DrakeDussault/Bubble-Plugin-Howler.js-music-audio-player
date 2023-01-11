@@ -58,9 +58,8 @@
         },
         "AAN": {
             "caption": "Volume",
-            "default_val": 1,
             "doc": "The volume of the track, from 0.0 to 1.0.",
-            "editor": "StaticNumber",
+            "editor": "DynamicValue",
             "name": "volume",
             "rank": 6,
             "value": "number"

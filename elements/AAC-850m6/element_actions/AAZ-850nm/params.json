@@ -1,0 +1,14 @@
+{
+    "caption": "Set Volume",
+    "doc": "Set the volume of a Howler.",
+    "fields": {
+        "AAa": {
+            "caption": "Volume",
+            "doc": "You can set the volume 0 - 100",
+            "editor": "DynamicValue",
+            "name": "volume",
+            "rank": 0,
+            "value": "number"
+        }
+    }
+}
